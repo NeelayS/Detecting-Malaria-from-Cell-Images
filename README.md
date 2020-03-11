@@ -8,3 +8,5 @@ Transfer learning is performed with the Resnet-34 model on the dataset using the
 
 An accuracy of ~95% was achieved with the model trained only on 10 epochs. 
 There is scope for further improvement with more training. 
+
+Working demonstration - https://detecting-malaria-from-cell-images.onrender.com/
