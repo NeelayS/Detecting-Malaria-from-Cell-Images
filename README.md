@@ -1,6 +1,6 @@
 # Detecting-Malaria-from-Cell-Images
 
-The Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/ .
+The dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/ .
 
 The aim is to aid microscopists in malaria parasite detection in thin-blood smear images and improve diagnostic accuarcy.
 
